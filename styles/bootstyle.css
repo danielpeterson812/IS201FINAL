@@ -1,0 +1,43 @@
+
+.navigation {
+    text-align: justify;
+
+}
+
+.mainbody {
+    text-align: justify;
+}
+
+.footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    position: fixed;
+    resize: both;
+    overflow: auto;
+}
+
+.resize {
+    margin: 0 auto;
+    min-height: 450px;
+    width: 960px;
+
+
+}
+
+.menucolor {
+    color: black;
+}
+
+.hyperlinkcolor {
+    color: dodgerblue;
+}
+
+a:hover {
+    color: purple;
+}
+

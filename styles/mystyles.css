@@ -1,0 +1,31 @@
+.textchange {
+    font-family: sans-serif;
+    color: white;
+}
+
+.textbackground {
+    background-color: white;
+
+}
+
+.background1 {
+    background-image: url('../assets/img/background1.jpg');
+    background-position: top right;
+}
+
+.background{
+    background-image: url('../assets/img/background.jpg');
+    background-position: bottom right;
+}
+
+.hyperlinkcolor {
+    color: blanchedalmond;
+}
+
+.hyperlinkcolor2 {
+    color: darkslateblue;
+}
+
+.imageposition {
+    position: relative;
+}
